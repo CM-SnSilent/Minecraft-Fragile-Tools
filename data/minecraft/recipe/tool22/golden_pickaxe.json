@@ -1,0 +1,22 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "group": "forge_pickaxe",
+    "category": "equipment",
+    "pattern": [
+        "aaa",
+        " b ",
+        " b "
+    ],
+    "key": {
+        "a": "minecraft:gold_ingot",
+        "b": "minecraft:stick"
+    },
+    "result": {
+        "id": "minecraft:golden_pickaxe",
+        "count": 1,
+        "components": {
+            "custom_name": "\u00A7f不耐用的金镐",
+            "damage": 31
+        }
+    }
+}

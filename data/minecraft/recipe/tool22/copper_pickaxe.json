@@ -1,0 +1,22 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "group": "forge_pickaxe",
+    "category": "equipment",
+    "pattern": [
+        "aaa",
+        " b ",
+        " b "
+    ],
+    "key": {
+        "a": "minecraft:copper_ingot",
+        "b": "minecraft:stick"
+    },
+    "result": {
+        "id": "minecraft:copper_pickaxe",
+        "count": 1,
+        "components": {
+            "custom_name": "\u00A7f不耐用的铜镐",
+            "damage": 189
+        }
+    }
+}

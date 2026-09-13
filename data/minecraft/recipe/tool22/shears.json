@@ -1,0 +1,20 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "category": "equipment",
+    "pattern": [
+        "  a",
+        " a ",
+        "   "
+    ],
+    "key": {
+        "a": "minecraft:iron_ingot"
+    },
+    "result": {
+        "id": "minecraft:shears",
+        "count": 1,
+        "components": {
+            "custom_name": "\u00A7f不耐用的剪刀",
+            "damage": 237
+        }
+    }
+}

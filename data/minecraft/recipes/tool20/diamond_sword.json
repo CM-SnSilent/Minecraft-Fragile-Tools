@@ -1,0 +1,26 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "group": "forge_sword",
+    "category": "equipment",
+    "pattern": [
+        " a ",
+        " a ",
+        " b "
+    ],
+    "key": {
+        "a": {
+            "item": "minecraft:diamond"
+        },
+        "b": {
+            "item": "minecraft:stick"
+        }
+    },
+    "result": {
+        "id": "minecraft:diamond_sword",
+        "count": 1,
+        "components": {
+            "custom_name": "\u00A7f不耐用的钻剑",
+            "damage": 1560
+        }
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "category": "equipment",
+    "pattern": [
+        "aba",
+        "cdc",
+        " a "
+    ],
+    "key": {
+        "a": "minecraft:stick",
+        "b": "minecraft:iron_ingot",
+        "c": "minecraft:string",
+        "d": "minecraft:tripwire_hook"
+    },
+    "result": {
+        "id": "minecraft:crossbow",
+        "count": 1,
+        "components": {
+            "custom_name": "\u00A7f不耐用的弩",
+            "damage": 464
+        }
+    }
+}
