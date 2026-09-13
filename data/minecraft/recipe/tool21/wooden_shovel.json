@@ -1,0 +1,26 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "group": "forge_shovel",
+    "category": "equipment",
+    "pattern": [
+        " a ",
+        " b ",
+        " b "
+    ],
+    "key": {
+        "a": {
+            "tag": "minecraft:planks"
+        },
+        "b": {
+            "item": "minecraft:stick"
+        }
+    },
+    "result": {
+        "id": "minecraft:wooden_shovel",
+        "count": 1,
+        "components": {
+            "custom_name": "\u00A7f不耐用的木锹",
+            "damage": 58
+        }
+    }
+}

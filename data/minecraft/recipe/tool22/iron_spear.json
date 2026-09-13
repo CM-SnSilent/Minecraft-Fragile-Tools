@@ -1,0 +1,22 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "group": "forge_axe",
+    "category": "equipment",
+    "pattern": [
+        "  a",
+        " b ",
+        "b  "
+    ],
+    "key": {
+        "a": "minecraft:iron_ingot",
+        "b": "minecraft:stick"
+    },
+    "result": {
+        "id": "minecraft:iron_spear",
+        "count": 1,
+        "components": {
+            "custom_name": "\u00A7f不耐用的铁矛",
+            "damage": 249
+        }
+    }
+}

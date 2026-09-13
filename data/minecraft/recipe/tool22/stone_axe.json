@@ -1,0 +1,22 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "group": "forge_axe",
+    "category": "equipment",
+    "pattern": [
+        "aa ",
+        "ab ",
+        " b "
+    ],
+    "key": {
+        "a": "#minecraft:stone_tool_materials",
+        "b": "minecraft:stick"
+    },
+    "result": {
+        "id": "minecraft:stone_axe",
+        "count": 1,
+        "components": {
+            "custom_name": "\u00A7f不耐用的石斧",
+            "damage": 130
+        }
+    }
+}

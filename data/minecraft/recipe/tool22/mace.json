@@ -1,0 +1,21 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "category": "equipment",
+    "pattern": [
+        "   ",
+        " a ",
+        " b "
+    ],
+    "key": {
+        "a": "minecraft:heavy_core",
+        "b": "minecraft:breeze_rod"
+    },
+    "result": {
+        "id": "minecraft:mace",
+        "count": 1,
+        "components": {
+            "custom_name": "\u00A7f不耐用的重锤",
+            "damage": 249
+        }
+    }
+}
